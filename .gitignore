@@ -1,0 +1,16 @@
+.env
+__pycache__/
+*.pyc
+*.log
+copiados.txt
+disparos_usados.txt
+importados_api.txt
+auditoria_api/
+erro_api/
+backup/
+temp_*.xlsx
+examples/WHATSAPP/
+examples/SMS/
+examples/importacao_geral/
+*.xlsx
+!modelo_importacao.xlsx
