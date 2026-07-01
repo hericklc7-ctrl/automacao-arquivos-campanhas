@@ -113,6 +113,3 @@ Este projeto trabalha conceitos importantes para automação e dados:
 - integração HTTP com API;
 - organização de projeto para GitHub.
 
-## Aviso
-
-Os dados e nomes deste repositório são fictícios. Não publique arquivos reais de clientes, tokens, planilhas internas ou caminhos da empresa.
