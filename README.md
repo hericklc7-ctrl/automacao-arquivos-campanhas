@@ -27,7 +27,6 @@ Este repositório foi preparado para publicação pública. Foram removidos:
 - tokens, credenciais e dados sensíveis;
 - arquivos reais de entrada/saída.
 
-Use `.env.example` como base e mantenha seu `.env` fora do GitHub.
 
 ## Estrutura
 
